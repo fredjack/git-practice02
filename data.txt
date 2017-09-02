@@ -1,3 +1,4 @@
 Name : Frederic Jacquette
 Age : 37
 Favorite color : Blue
+favorite car : Ferrari
